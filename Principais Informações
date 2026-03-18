@@ -1,0 +1,21 @@
+🎨 Tecnologia Utilizada: Lovable.dev (Vibe Coding)
+Neste desafio, utilizei o Lovable como minha principal ferramenta de construção. A escolha se deu pela capacidade da plataforma de interpretar prompts complexos e transformar a "vibe" do meu negócio em uma interface funcional e moderna, sem a necessidade de escrever cada linha de CSS do zero.
+
+Resumo do App: ModFinance AI (Versão Lovable)
+O app foi construído para ser o centro de comando dos meus empreendimentos (ModCell e ModLoc) e da gestão do meu RPV.
+
+Interface Conversacional: O Lovable criou um fluxo onde eu "falo" com o app e ele organiza os gastos.
+
+Dashboard Visual: Gráficos intuitivos que separam o que é investimento em iPhones do que é lucro das motos em Paulista/PE.
+
+Foco no Usuário: Design focado em agilidade, ideal para quem precisa registrar uma venda enquanto está em trânsito no Recife.
+
+🧠 Reflexão Final (Atualizada)
+O que funcionou bem?
+A velocidade do Lovable para iterar o design. Eu pedia "deixe o botão de 'Nova Venda' mais destacado" e a IA ajustava instantaneamente. O Vibe Coding brilhou aqui: em vez de debugar código, eu foquei em debugar a experiência do usuário.
+
+O que não funcionou como o esperado?
+O limite de interações gratuitas exige que o prompt seja perfeito. Se eu fosse vago demais, gastava uma "vida" (crédito) e o resultado não era o que eu queria. Aprendi que, mesmo no Lovable, o meu conhecimento de PRD e Processos foi o que salvou o projeto.
+
+O que aprendi sobre conversar com IAs?
+Aprendi que a IA é um espelho da minha clareza. Se o meu negócio está bagunçado na minha cabeça, o app no Lovable sai bagunçado. O "jeito Vibe" de programar é, na verdade, um jeito de pensar estruturado comunicado de forma natural.
